@@ -22,4 +22,4 @@ I co-founded **[klimaleksikon.dk](https://klimaleksikon.dk)** in 2008 — Denmar
 
 ### Elsewhere
 
-[docujai.com](https://docujai.com) · [LinkedIn](https://www.linkedin.com/in/lennartkiil) · [Drupal.org](https://www.drupal.org/u/lennart)
+[docujai.com](https://docujai.com) · [lennartkiil.com](https://lennartkiil.com) · [kiils.dk](https://kiils.dk) · [LinkedIn](https://www.linkedin.com/in/lennartkiil) · [Drupal.org](https://www.drupal.org/u/lennart)
