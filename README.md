@@ -7,7 +7,7 @@ Trained as a biologist (M.Sc., Aarhus University) and a science journalist (DMJX
 ### What I work on
 
 - **[docujAI](https://docujai.com)** — strategic AI advisory, courses and board workshops for small and medium-sized businesses. Practical, production-grade AI, and saying plainly when AI is not the answer.
-- **Folkets Avis** — Lead AI Engineer. A multi-agent editorial system in daily production: source-grounded article generation, internal RAG, and open-source monitoring with every claim traceable to its source.
+- **Folkets Avis** — Lead AI Architect. A multi-agent editorial system in daily production: source-grounded article generation, internal RAG, and open-source monitoring with every claim traceable to its source.
 - **Humanice** — a human-in-the-loop LLM content platform for editorial teams.
 
 ### Climate communication
